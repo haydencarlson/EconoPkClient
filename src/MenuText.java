@@ -237,7 +237,7 @@ public class MenuText {
 	public static final String field_iy_2012 = "The part of the website you are trying";
 	public static final String field_hi_2013 = "Password: ";
 	public static final String field_bl_2014 = "Please subscribe, or use a different world.";
-	public static final String WELCOME_TO_VERNOX = "Welcome to EconoPk";
+	public static final String WELCOME_TO_VERNOX = "Welcome to EconoPk ";
 	public static final String field_ic_2016 = "New User";
 	public static final String field_ju_2017 = "Select a world";
 	public static final String field_ih_2018 = "Login";
